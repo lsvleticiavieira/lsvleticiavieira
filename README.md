@@ -5,7 +5,7 @@
 
 - 🌱 Estou estudando **Python**
 
-- 💬 Me pergunte sobre **Excel, SQL, Tableau e Looker**
+- 💬 Me pergunte sobre **Excel, SQL, Python, AppScript e Looker**
 
 - 📫 Pode me chamar no e-mail **lcanarinho@hotmail.com**
 
