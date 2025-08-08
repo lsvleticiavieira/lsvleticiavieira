@@ -3,7 +3,7 @@
 
 - 🔭Atualmente estou trabalhando no **Grupo Boticiário**
 
-- 🌱 Estou estudando **Python**
+- 🌱 Estou estudando **Agentes de IA**
 
 - 💬 Me pergunte sobre **Excel, SQL, Python, AppScript e Looker**
 
