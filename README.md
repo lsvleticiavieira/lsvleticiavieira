@@ -1,5 +1,4 @@
 <h1 align="center">Fala meu povo 👋, me chamo Letícia Vieira</h1>
-<h3 align="center">Apaixonada por análise de dados em finanças</h3>
 
 - 🔭Atualmente estou trabalhando no **Grupo Boticiário**
 
